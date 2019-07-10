@@ -1,0 +1,19 @@
+- sudo apt install snapd
+
+- sudo snap install heroku --classic
+__________________________________________________________________
+
+* Do remember to actually source the installation file.
+
+- wget -0- wget https://toolbelt.heroku.com/install-ubuntu.sh | sh
+
+* or try
+
+- wget 0- wget https://toolbelt.heroku.com/install-ubuntu.sh | sh
+
+- bash install-ubuntu.sh
+
+- heroku login
+
+* source :
+https://stackoverflow.com/questions/12795498/heroku-command-not-found
